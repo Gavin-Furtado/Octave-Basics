@@ -1,2 +1,4 @@
 # Octave-Basics
-Refreshing Octave syntax 
+Refreshing Octave syntax.
+
+Documenting my Octave learning journey. 
